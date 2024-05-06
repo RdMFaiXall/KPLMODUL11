@@ -1,0 +1,12 @@
+D:\haw\modul11_1302220093\MatematikaLibraries\bin\Debug\net8.0\MatematikaLibraries.deps.json
+D:\haw\modul11_1302220093\MatematikaLibraries\bin\Debug\net8.0\MatematikaLibraries.dll
+D:\haw\modul11_1302220093\MatematikaLibraries\bin\Debug\net8.0\MatematikaLibraries.pdb
+D:\haw\modul11_1302220093\MatematikaLibraries\obj\Debug\net8.0\MatematikaLibraries.GeneratedMSBuildEditorConfig.editorconfig
+D:\haw\modul11_1302220093\MatematikaLibraries\obj\Debug\net8.0\MatematikaLibraries.AssemblyInfoInputs.cache
+D:\haw\modul11_1302220093\MatematikaLibraries\obj\Debug\net8.0\MatematikaLibraries.AssemblyInfo.cs
+D:\haw\modul11_1302220093\MatematikaLibraries\obj\Debug\net8.0\MatematikaLibraries.csproj.CoreCompileInputs.cache
+D:\haw\modul11_1302220093\MatematikaLibraries\obj\Debug\net8.0\MatematikaLibraries.sourcelink.json
+D:\haw\modul11_1302220093\MatematikaLibraries\obj\Debug\net8.0\MatematikaLibraries.dll
+D:\haw\modul11_1302220093\MatematikaLibraries\obj\Debug\net8.0\refint\MatematikaLibraries.dll
+D:\haw\modul11_1302220093\MatematikaLibraries\obj\Debug\net8.0\MatematikaLibraries.pdb
+D:\haw\modul11_1302220093\MatematikaLibraries\obj\Debug\net8.0\ref\MatematikaLibraries.dll
